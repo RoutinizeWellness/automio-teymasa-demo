@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 64" role="img" aria-label="Automio">
+  <title>Automio</title>
+  <!-- Marca: "A" geométrica enmarcada, con base en acento eléctrico -->
+  <rect x="4" y="8" width="48" height="48" rx="12" fill="#0F172A"/>
+  <path d="M28 18 L42 46 H34.8 L32.6 40.6 H23.4 L21.2 46 H14 Z M28 27.2 L24.9 35.6 H31.1 Z" fill="#FFFFFF"/>
+  <circle cx="28" cy="49.5" r="2.6" fill="#0EA5E9"/>
+  <!-- Wordmark -->
+  <text x="64" y="41" font-family="'Plus Jakarta Sans', 'Inter', ui-sans-serif, system-ui, sans-serif"
+        font-size="27" font-weight="700" letter-spacing="-0.5" fill="#0F172A">Automio</text>
+</svg>
